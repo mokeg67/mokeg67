@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mokeg67
+- 👋 Hi, I’m Moritz
 - 👀 I’m interested in Diy Electronics and Retro Emulation
 - 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate on ...
